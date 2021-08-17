@@ -10,6 +10,8 @@ The following features are included in the application:
 To set up the application, you need Python 3.8. After cloning the repository change to the project directory and install the dependencies via:
 
 ```
+sudo apt update
+sudo apt install uwsgi-plugin-python3
 python3 -m pip install -r requirements.txt
 ```
 
