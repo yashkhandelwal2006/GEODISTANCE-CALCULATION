@@ -21,6 +21,8 @@ To start the app in development mode, execute
 
 ```
 ./run_app_dev.sh
+or
+sh ./run_app_dev.sh
 ```
 
 The application will then be available at `localhost:5000`. You can test the functionality manually using `curl`, e.g. via
